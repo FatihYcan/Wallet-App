@@ -33,3 +33,7 @@ Bu uygulama, gelir ve giderlerinizi kaydetmenize ve toplam gelir-gider dengenizi
 - HTML, CSS, JavaScript:
 - Bootstrap
 - Font Awesome
+
+https://github.com/user-attachments/assets/a4199f6f-9b36-465e-8c79-0c09b62cfc57
+
+[Canlı Demo'yu Deneyin](https://fatihycan.github.io/Wallet-App/)
