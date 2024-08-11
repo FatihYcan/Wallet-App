@@ -1,38 +1,45 @@
-# My Wallet App 💳
+# My Wallet App
 
-This app allows you to record your income and expenses and track your total income-expense balance.
+My Wallet App is a simple application that can be used for personal finance management. It allows you to track your income and expenses and view them regularly.
 
 ## Features
 
-- **Adding Income:** Income can be recorded by entering the date, amount and income field.
-- **Adding Expense:** Expense can be recorded by entering the date, amount and expense field.
-- **Total Calculation:** The total of the added income and expenses is calculated and the remaining balance is shown.
+- **Income and Expense Forms**: Add your income and expenses with date, amount and field information.
+- **Table View**: View the income and expenses you added in date order.
+- **Total Income and Expense**: Shows total income, expenses and remaining balance.
+- **Clear Information**: Ability to clear all income and expense data.
 - **Table Sorting:** Added income and expenses are automatically sorted by date.
 - **Data Storage:** Data added using browser local storage is stored securely.
 
-## Used technologies
+## Technologies
 
-- HTML, CSS, JavaScript:
-- Bootstrap
+- HTML5
+- CSS3
+- JavaScript
+- Bootstrap.
 - Font Awesome
 
-# My Wallet App 💳
+# My Wallet App
 
-Bu uygulama, gelir ve giderlerinizi kaydetmenize ve toplam gelir-gider dengenizi takip etmenize olanak tanır.
+My Wallet App, kişisel finans yönetimi için kullanılabilecek basit bir uygulamadır. Gelir ve giderlerinizi takip etmenizi ve bunları düzenli bir şekilde görüntülemenizi sağlar.
 
 ## Özellikler
 
-- **Gelir Ekleme:** Tarih, miktar ve gelir alanı girilerek gelir kaydedilebilir.
-- **Gider Ekleme:** Tarih, miktar ve gider alanı girilerek gider kaydedilebilir.
-- **Toplam Hesaplama:** Eklenen gelir ve giderlerin toplamı hesaplanarak kalan bakiye gösterilir.
+- **Gelir ve Gider Formları**: Gelir ve giderlerinizi tarih, miktar ve alan bilgileriyle ekleyin.
+- **Tablo Görünümü**: Eklediğiniz gelir ve giderleri tarih sırasına göre görüntüleyin.
+- **Toplam Gelir ve Gider**: Toplam gelir, gider ve kalan bakiyeyi gösterir.
+- **Bilgileri Temizle**: Tüm gelir ve gider verilerini temizleme özelliği.
 - **Tablo Sıralama:** Eklenen gelir ve giderler tarihe göre otomatik olarak sıralanır.
 - **Veri Saklama:** Tarayıcı yerel depolama kullanılarak eklenen veriler güvenli bir şekilde saklanır.
 
-## Kullanılan Teknolojiler
+## Teknolojiler
 
-- HTML, CSS, JavaScript:
-- Bootstrap
+- HTML5
+- CSS3
+- JavaScript
+- Bootstrap.
 - Font Awesome
+- Local Storage
 
 https://github.com/user-attachments/assets/a4199f6f-9b36-465e-8c79-0c09b62cfc57
 
