@@ -16,7 +16,7 @@ My Wallet App is a simple application that can be used for personal finance mana
 - HTML5
 - CSS3
 - JavaScript
-- Bootstrap.
+- Bootstrap
 - Font Awesome
 
 # My Wallet App
@@ -37,7 +37,7 @@ My Wallet App, kişisel finans yönetimi için kullanılabilecek basit bir uygul
 - HTML5
 - CSS3
 - JavaScript
-- Bootstrap.
+- Bootstrap
 - Font Awesome
 - Local Storage
 
